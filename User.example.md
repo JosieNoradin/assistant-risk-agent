@@ -35,7 +35,6 @@ User work includes:
 - Risk reporting
 - Cost and schedule risk exposure
 - Quantitative risk analysis
-- Monte Carlo simulation
 - Risk mitigation and action monitoring
 - Contractor risk reviews
 - Management risk reporting
